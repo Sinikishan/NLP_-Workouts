@@ -5,4 +5,5 @@ https://www.nltk.org/book/
 1. Lab 1 Getting Started with NLTK Package for NLP Applications
    https://youtu.be/cf00Qe8CCuE
 
-3. 
+2. Lab 2  Text Preprocessing - Stop words removal etc for Text cleaning
+   https://youtu.be/VAul3qNbmh4
