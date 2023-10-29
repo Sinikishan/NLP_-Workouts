@@ -22,4 +22,7 @@ https://www.nltk.org/book/
 
 8. Lab 4a - Cosine Similarity :
    https://youtu.be/Znsd2NMmF_w
+
+9. Lab 4b Bag of Words Concept detailed
+    https://youtu.be/HX-daah5_0g
    
