@@ -19,4 +19,7 @@ https://www.nltk.org/book/
 
 7. Lab 3c Topic Modeling using Latent Dirichlet Allocation (LDA)
    https://youtu.be/dVkOjDBmsk0
+
+8. Lab 4a - Cosine Similarity :
+   https://youtu.be/Znsd2NMmF_w
    
