@@ -13,3 +13,6 @@ https://www.nltk.org/book/
 
 5. Lab 3a POS, NER (Basic) , Chunking etc. :
    https://youtu.be/0FEwbuvm9uM
+
+6. Lab 3b Named Entity Recognition using SPACY :
+   https://youtu.be/puCfvD09ZCw
