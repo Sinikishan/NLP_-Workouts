@@ -16,3 +16,7 @@ https://www.nltk.org/book/
 
 6. Lab 3b Named Entity Recognition using SPACY :
    https://youtu.be/puCfvD09ZCw
+
+7. Lab 3c Topic Modeling using Latent Dirichlet Allocation (LDA)
+   https://youtu.be/dVkOjDBmsk0
+   
