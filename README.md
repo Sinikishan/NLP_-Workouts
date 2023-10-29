@@ -25,4 +25,11 @@ https://www.nltk.org/book/
 
 9. Lab 4b Bag of Words Concept detailed
     https://youtu.be/HX-daah5_0g
-   
+
+10. Lab 4c, 4d Word2Vec using SkipGram Model
+    https://youtu.be/IQKFYzIaODo
+    
+11. Lab 4e NGram Models in NLP Explained.
+    https://youtu.be/H3Fgo5dovN0
+
+    
