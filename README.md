@@ -33,8 +33,10 @@ https://www.nltk.org/book/
     https://youtu.be/H3Fgo5dovN0
 
 12. Lab 5b 5c Text Classification Using Naive Bayes and MultinomialNB
-13. Lab 5d  Text Classification-Evaluation Strategy - Confusion Metric
-14. Lab 5e Evaluation Metric -AUC ROC
-15. Lab 5f Text Classification using various Algorithms-A complete walkthrough Demo Code!
+    https://youtu.be/jHtqgFwJcIA
+    
+14. Lab 5d  Text Classification-Evaluation Strategy - Confusion Metric
+15. Lab 5e Evaluation Metric -AUC ROC
+16. Lab 5f Text Classification using various Algorithms-A complete walkthrough Demo Code!
 
     
