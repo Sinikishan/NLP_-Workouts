@@ -1,6 +1,9 @@
 # NLP_Labs_MSc
+
 This is a repository of the course NLP MSc Labs
 https://www.nltk.org/book/
+
+Check out the YouTube Channel : Sinzsma  for more technical contents
 
 1. Lab 1 Getting Started with NLTK Package for NLP Applications
    https://youtu.be/cf00Qe8CCuE
@@ -30,7 +33,6 @@ https://www.nltk.org/book/
     https://youtu.be/IQKFYzIaODo
     
 11. Lab 5a NGram Models in NLP Explained.
-    https://youtu.be/ifNrU2yEcGg
     https://youtu.be/H3Fgo5dovN0
 
 13. Lab 5b 5c Text Classification Using Naive Bayes and MultinomialNB
@@ -43,5 +45,7 @@ https://www.nltk.org/book/
     https://youtu.be/vPDUUG516Vk
     
 16. Lab 5f Text Classification using various ML Algorithms complete walkthrough Demo Code!
+    https://youtu.be/ifNrU2yEcGg
 
+ 
     
