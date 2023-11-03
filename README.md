@@ -30,15 +30,16 @@ https://www.nltk.org/book/
     https://youtu.be/IQKFYzIaODo
     
 11. Lab 5a NGram Models in NLP Explained.
+    https://youtu.be/ifNrU2yEcGg
     https://youtu.be/H3Fgo5dovN0
 
-12. Lab 5b 5c Text Classification Using Naive Bayes and MultinomialNB
+13. Lab 5b 5c Text Classification Using Naive Bayes and MultinomialNB
     https://youtu.be/jHtqgFwJcIA
     
-13. Lab 5d  Text Classification-Evaluation Strategy - Confusion Matrix
+14. Lab 5d  Text Classification-Evaluation Strategy - Confusion Matrix
     https://youtu.be/5rXm3LJCf9g
     
-14. Lab 5e Evaluation Metric -AUC ROC
+15. Lab 5e Evaluation Metric -AUC ROC
     https://youtu.be/vPDUUG516Vk
     
 16. Lab 5f Text Classification using various ML Algorithms complete walkthrough Demo Code!
