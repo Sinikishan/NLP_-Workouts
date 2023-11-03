@@ -29,7 +29,12 @@ https://www.nltk.org/book/
 10. Lab 4c, 4d Word2Vec using SkipGram Model
     https://youtu.be/IQKFYzIaODo
     
-11. Lab 4e NGram Models in NLP Explained.
+11. Lab 5a NGram Models in NLP Explained.
     https://youtu.be/H3Fgo5dovN0
+
+12. Lab 5b 5c Text Classification Using Naive Bayes and MultinomialNB
+13. Lab 5d  Text Classification-Evaluation Strategy - Confusion Metric
+14. Lab 5e Evaluation Metric -AUC ROC
+15. Lab 5f Text Classification using various Algorithms-A complete walkthrough Demo Code!
 
     
