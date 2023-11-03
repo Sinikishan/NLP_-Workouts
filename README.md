@@ -39,6 +39,8 @@ https://www.nltk.org/book/
     https://youtu.be/5rXm3LJCf9g
     
 14. Lab 5e Evaluation Metric -AUC ROC
-15. Lab 5f Text Classification using various ML Algorithms complete walkthrough Demo Code!
+    https://youtu.be/vPDUUG516Vk
+    
+16. Lab 5f Text Classification using various ML Algorithms complete walkthrough Demo Code!
 
     
